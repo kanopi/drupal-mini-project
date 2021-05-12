@@ -6,7 +6,7 @@ Mini-project for Drupal candidates
 
 ### Before you begin
 1. Make sure you have [Composer](https://getcomposer.org/download/) installed locally.
-2. Make sure you have [SQlite](https://sqlite.org/download.html) installed locally. If you're on a Mac, you most likely already do. (You need it if you want to use these setup instructions, at least.)
+2. Make sure you have [SQLite](https://sqlite.org/download.html) installed locally. If you're on a Mac, you most likely already do. (You need it if you want to use these setup instructions, at least.)
 3. Create a `git clone` of this project. All commands from here assume you're inside the project folder (probably `/drupal-mini-project` unless you were fancy and changed it to something else).
 
 ### Installing and starting the site
