@@ -14,7 +14,6 @@ This project installs Drupal core using Composer. To get going, start by install
 
 ```
 $ composer install
-$ cd web
 ```
 
 This project uses the [Umami demo](https://www.drupal.org/docs/umami-drupal-demonstration-installation-profile) site as the basis for your work. Because who doesn't like yummy food? To get your local setup, use these commands.
