@@ -26,7 +26,7 @@ $ vendor/bin/drush runserver
 By default, the server will listen on http://127.0.0.1:8888. The `site-install` command will give you your username and password, or you can `$ vendor/bin/drush uli` to get a login link.
 
 ### A note about your local PHP
-The default macOS PHP configuration is pretty good, but you may find in working with this project that you run out of memory. If you need to raise the limit, copy ``/etc/php.ini.default` to ``/etc/php.ini` with:
+The default macOS PHP configuration is pretty good, but you may find in working with this project that you run out of memory. If you need to raise the limit, copy `/etc/php.ini.default` to `/etc/php.ini` with:
 
 `$ sudo cp /etc/php.ini.default /etc/php.ini`
 
