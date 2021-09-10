@@ -30,4 +30,4 @@ The default macOS PHP configuration is pretty good, but you may find in working 
 
 `$ sudo cp /etc/php.ini.default /etc/php.ini`
 
-Then, edit it with sudo nano /etc/php.ini to change settings as you see fit. You will need to restart the Drush web server after changing this file.
+Then, edit it with `sudo nano /etc/php.ini` to change settings as you see fit. You will need to restart the Drush web server after changing this file.
