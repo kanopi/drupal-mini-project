@@ -39,7 +39,7 @@
 /web/.eslintrc.json
 /web/.gitattributes
 /web/.htaccess
-/autoload.php
+/web/autoload.php
 /web/composer.lock
 /web/example.gitignore
 /web/index.php
