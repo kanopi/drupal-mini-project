@@ -7,7 +7,8 @@
 /web/sites/*/*services*.yml
 
 # Ignore paths that may contain user-generated content
-/web/sites/*/files
+# Allow files so config can be exported. Do not copy to any production sites.
+!/web/sites/*/files
 /web/sites/*/public
 /web/sites/*/private
 /web/sites/*/files-public
