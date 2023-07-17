@@ -38,6 +38,6 @@ If you need to install modules and/or themes to complete your task, please feel 
 
 For contributed Drupal.org modules, please use composer:
 
-`composer require dupal/example`
+`composer require drupal/example`
 
 For custom modules, you can include them directly in the code base.
