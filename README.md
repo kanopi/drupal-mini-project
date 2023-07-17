@@ -31,3 +31,13 @@ You may find in working with this project that you run out of memory. If you nee
 1. Depending on how you installed PHP you will need to find where your specific `php.ini` file is.
 1. This will show the path to your `php.ini` file. `php -r 'phpinfo();' | grep 'php.ini'`
 1. Load the `php.ini` file in your favorite text editor and change the `memory_limit` to something like `512M`.
+
+## Installing Dependencies
+
+If you need to install modules and/or themes to complete your task, please feel free to.  
+
+For contributed Drupal.org modules, please use composer:
+
+`composer require dupal/example`
+
+For custom modules, you can include them directly in the code base.
