@@ -1,0 +1,6 @@
+name: 'Related Content'
+type: module
+description: 'To not display the related content area if there are less than 3 related CT'
+version: 1.0x
+core_version_requirement: ^8 || ^9
+package: Custom
